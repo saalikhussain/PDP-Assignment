@@ -1,9 +1,5 @@
 # PDP-Assignment
 
-Here’s a detailed GitHub repository description for your project based on the proposal:
-
----
-
 # Distributed Training of Random Forest Model for Large Datasets
 
 ## 📌 **Objective**
