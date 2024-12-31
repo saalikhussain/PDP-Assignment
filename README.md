@@ -1,4 +1,4 @@
-# PDP-Assignment
+# PDP-Project
 
 # Distributed Training of Random Forest Model for Large Datasets
 
